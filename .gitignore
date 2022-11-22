@@ -1,5 +1,7 @@
 구구단/node_modules
 끝말잇기/node_modules
+숫자야구/node_modules
 lecture/node_modules
 .DS_Store
 .idea
+/숫자야구/node_modules/
